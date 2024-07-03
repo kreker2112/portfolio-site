@@ -1,8 +1,8 @@
 {
-  "name": "freelance-portfolio-react",
+  "name": "portfolio-site",
   "version": "1.0.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://kreker2112.github.io/portfolio-site",
   "dependencies": {
     "@testing-library/jest-dom": "^6.4.5",
     "@testing-library/react": "^15.0.7",
