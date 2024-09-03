@@ -19,11 +19,11 @@ import project06Big from "./../img/projects/06-big.jpg";
 const projects = [
   {
     key: 1,
-    title: "Gaming streaming portal",
-    skills: "React, Node.js, MongoDB",
+    title: "ToDo APP",
+    skills: "Vue3, Quasar, Vue-Router",
     img: project01,
     imgBig: project01Big,
-    gitHubLink: "https://github.com/kreker2112",
+    gitHubLink: "https://github.com/kreker2112/ToDo-s",
   },
   {
     key: 2,
