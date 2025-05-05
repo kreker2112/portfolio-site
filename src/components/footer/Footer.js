@@ -41,9 +41,7 @@ const Footer = () => {
           <div className="copyright">
             <p>
               © 2023 All rights reserved <br />
-              <a href="https://kreker2112.github.io/goit_js_basic_course/">
-                kreker2112.github.io
-              </a>
+              <a href="https://github.com/kreker2112">kreker2112.github</a>
             </p>
           </div>
         </div>

@@ -13,8 +13,8 @@ import project04Big from "./../img/projects/04-big.jpg";
 import project05 from "./../img/projects/05.jpg";
 import project05Big from "./../img/projects/05-big.jpg";
 
-import project06 from "./../img/projects/06.jpg";
-import project06Big from "./../img/projects/06-big.jpg";
+// import project06 from "./../img/projects/06.jpg";
+// import project06Big from "./../img/projects/06-big.jpg";
 
 const projects = [
   {
@@ -24,6 +24,7 @@ const projects = [
     img: project01,
     imgBig: project01Big,
     gitHubLink: "https://github.com/kreker2112/ToDo-s",
+    deployLink: "https://kreker2112.github.io/ToDo-s/#/",
   },
   {
     key: 2,
@@ -32,6 +33,7 @@ const projects = [
     img: project02,
     imgBig: project02Big,
     gitHubLink: "https://github.com/kreker2112/country-info-app-2",
+    deployLink: "https://kreker2112.github.io/country-info-app-2/#/",
   },
   {
     key: 3,
@@ -40,14 +42,17 @@ const projects = [
     img: project03,
     imgBig: project03Big,
     gitHubLink: "https://github.com/kreker2112/Tourism-template",
+    deployLink: "https://kreker2112.github.io/Tourism-template/#",
   },
   {
     key: 4,
     title: "Entrepreneur's Tax Cabinet",
-    skills: "Vue3, Composition API, Vuex, Vue-Router, ASP.NET Web API, MongoDB",
+    skills:
+      "Vue3, Composition API, SASS, Vuex, Vue-Router, ASP.NET Web API, MongoDB, Docker, Docker-Compose",
     img: project04,
     imgBig: project04Big,
     gitHubLink: "https://github.com/kreker2112/currency-converter_fullstack",
+    deployLink: "https://tax-cabinet.pp.ua/",
   },
   {
     key: 5,
@@ -56,14 +61,17 @@ const projects = [
     img: project05,
     imgBig: project05Big,
     gitHubLink: "https://github.com/kreker2112/Mozaic2",
+    deployLink: "https://kreker2112.github.io/Mozaic2/#/",
   },
-  {
-    key: 6,
-    title: "Gaming community",
-    skills: "React, PHP, MySQL",
-    img: project06,
-    imgBig: project06Big,
-  },
+  // {
+  //   key: 6,
+  //   title: "Gaming community",
+  //   skills: "React, PHP, MySQL",
+  //   img: project06,
+  //   imgBig: project06Big,
+  //   gitHubLink: "https://github.com/kreker2112/Mozaic2",
+  //   deployLink: "https://kreker2112.github.io/ToDo-s/#/",
+  // },
 ];
 
 export { projects };

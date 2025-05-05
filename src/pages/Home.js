@@ -18,7 +18,7 @@ const Home = () => {
             </li>
             <li className="content-list__item">
               <h2 className="title-2">Backend</h2>
-              <p>NodeJS, MySQL, MongoDB, ASP.NET API, PostgreSQL </p>
+              <p>NodeJS, Docker, MongoDB, ASP.NET WEB API, Ubuntu 24.04 </p>
             </li>
           </ul>
         </div>
